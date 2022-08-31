@@ -1,5 +1,19 @@
 django==3.2.11
 djangorestframework==3.12.4
+django-cors-headers==3.10.1
 drf-yasg==1.20.0
 django-filter==21.1
-djoser==2.1.0
+watchdog==2.1.6
+
+pytest-django==4.5.2
+
+pytest-factoryboy==2.1.0
+
+Faker==11.3.0
+fake-useragent == 0.1.11
+pytest-cov==3.0.0
+click==8.0.4
+flake8==4.0.1
+black==22.3.0
+isort==5.9.3
+argh==0.26.2
